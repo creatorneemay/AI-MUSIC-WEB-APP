@@ -1,0 +1,30 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+.div_pp{
+    float: left;
+}
+.disk_img_pp, .disk_img_hp{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_hp{
+    float: right;
+}
+#pp, #hp{
+    font-size: 23px;
+    margin: 15px;
+}
+.pause{
+    margin-left: 10px;
+    margin-top: 5px;
+}
